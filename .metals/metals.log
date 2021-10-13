@@ -2,3 +2,7 @@
 [0m2021.10.13 20:34:40 INFO  time: initialize in 0.6s[0m
 [0m2021.10.13 20:34:41 WARN  Build server is not auto-connectable.[0m
 [0m2021.10.13 20:34:41 WARN  no build tool detected in workspace 'C:\Users\as coll\OneDrive - Institute of Technology Sligo\Desktop\js\01basics'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.10.13 20:40:00 INFO  [0m
+[0m2021.10.13 20:40:00 INFO  Template applied in C:\Users\as coll\OneDrive - Institute of Technology Sligo\Desktop\js\01basics\scala basics\.\hello-world[0m
+[0m2021.10.13 20:40:00 INFO  [0m
+[0m2021.10.13 20:40:00 INFO  time: ran 'giter8.Giter8' in 6.13s[0m
